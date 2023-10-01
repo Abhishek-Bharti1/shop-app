@@ -1,10 +1,9 @@
-// import Home from "./pages/Home";
+import Cart from "./pages/Cart";
 
-import ProductList from "./pages/ProductList";
 
 
 function App() {
-  return <ProductList/>
+  return <Cart/>
 }
 
 export default App;
